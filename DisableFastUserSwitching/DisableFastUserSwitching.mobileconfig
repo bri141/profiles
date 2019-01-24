@@ -15,7 +15,7 @@
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>MultipleSessionEnabled</key>
-								<false/>
+								<true/>
 							</dict>
 						</dict>
 					</array>
@@ -34,14 +34,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disables Fast User Switching</string>
+	<string>Fast User Switching</string>
 	<key>PayloadDisplayName</key>
-	<string>Disable Fast User Switching</string>
+	<string>Fast User Switching</string>
 	<key>PayloadIdentifier</key>
 	<string>2042b5e1-c308-4928-8191-8a4d42a673aa</string>
 	<key>PayloadOrganization</key>
 	<string>Company Name</string>
-	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadScope</key>
 	<string>System</string>
